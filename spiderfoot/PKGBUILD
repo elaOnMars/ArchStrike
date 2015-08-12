@@ -1,8 +1,8 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=spiderfoot
 pkgver=2.3.0
 pkgrel=1
-groups=('projectname' 'projectname-*reconnaissance')
+groups=('archassault' 'archassault-reconnaissance')
 pkgdesc="The Open Source Footprinting Tool"
 url='http://spiderfoot.net'
 arch=('any')

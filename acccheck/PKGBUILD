@@ -1,8 +1,8 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=acccheck
 pkgver=0.2.1
 pkgrel=3
-groups=('projectname' 'projectname-*crackers')
+groups=('archassault' 'archassault-crackers')
 pkgdesc="A password dictionary attack tool that targets windows authentication via the SMB protocol."
 url='http://labs.portcullis.co.uk/tools/acccheck/'
 arch=('any')

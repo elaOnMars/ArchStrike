@@ -1,8 +1,8 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=peach
 pkgver=3.0.202
 pkgrel=1
-groups=('projectname' 'projectname-*fuzzer')
+groups=('archassault' 'archassault-fuzzer')
 pkgdesc="A SmartFuzzer that is capable of performing both generation and mutation based fuzzing"
 arch=('i686' 'x86_64' 'armv6h' 'armv7h')
 url=('http://peachfuzzer.com/')

@@ -1,4 +1,4 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=python2-gitpython
 pkgver=0.3.5
 pkgrel=1

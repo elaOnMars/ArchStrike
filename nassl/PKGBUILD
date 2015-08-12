@@ -1,8 +1,8 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=nassl
 pkgver=0.9
 pkgrel=1
-groups=('projectname' 'projectname-*misc')
+groups=('archassault' 'archassault-misc')
 pkgdesc="Experimental Python wrapper for OpenSSL"
 arch=('armv6h' 'armv7h' 'i686' 'x86_64')
 url='https://github.com/nabla-c0d3/nassl'

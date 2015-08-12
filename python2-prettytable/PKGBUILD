@@ -1,4 +1,4 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=python2-prettytable
 pkgver=0.7.2
 pkgrel=4

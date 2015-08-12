@@ -1,8 +1,8 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=wafw00f
 pkgver=0.9.1
 pkgrel=1
-groups=('projectname' 'projectname-*webapp' 'archassault-scanners')
+groups=('archassault' 'archassault-webapp' 'archassault-scanners')
 pkgdesc="Identify and fingerprint Web Application Firewall (WAF) products protecting a website"
 arch=('any')
 url="https://github.com/sandrogauci/${pkgname}"

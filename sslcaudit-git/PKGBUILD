@@ -1,8 +1,8 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=sslcaudit-git
 pkgver=r522.5b6be3e
 pkgrel=1
-groups=('projectname' 'projectname-*scanners')
+groups=('archassault' 'archassault-scanners')
 pkgdesc="Utility to perform security audits of SSL/TLS clients"
 url='https://github.com/grwl/sslcaudit'
 arch=('any')

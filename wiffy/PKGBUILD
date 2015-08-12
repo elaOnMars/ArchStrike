@@ -1,8 +1,8 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=wiffy
 pkgver=0.2.1aa
 pkgrel=1
-groups=('projectname' 'projectname-*wireless' 'archassault-autonomous')
+groups=('archassault' 'archassault-wireless' 'archassault-autonomous')
 pkgdesc="Automated wifi hacking script"
 url="https://code.google.com/p/g0tmi1k/"
 arch=('any')

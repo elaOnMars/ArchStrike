@@ -1,8 +1,8 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=pytbull
 pkgver=2.0
 pkgrel=2
-groups=('projectname' 'projectname-*scanner')
+groups=('archassault' 'archassault-scanner')
 pkgdesc="A python based flexible IDS/IPS testing framework shipped with more than 300 tests"
 arch=('any')
 url='http://pytbull.sourceforge.net/'

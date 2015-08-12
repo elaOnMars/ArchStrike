@@ -1,11 +1,11 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 # Contributor: Franco Colombino <franco.c.colombino@gmail.com>
 
 _pkgname=cangibrina
 pkgname=$_pkgname-git
 pkgver=20150322.r93.8744afe
 pkgrel=1
-groups=('projectname' 'projectname-*scanner' 'archassault-scanners' 'archassault-webapps')
+groups=('archassault' 'archassault-scanner' 'archassault-scanners' 'archassault-webapps')
 pkgdesc='Fast and powerfull dashboard (admin) finder'
 arch=('any')
 url='https://github.com/fnk0c/cangibrina'

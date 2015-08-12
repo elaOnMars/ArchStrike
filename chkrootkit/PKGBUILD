@@ -1,10 +1,10 @@
-# Maintainer: ArchAssault <team projectname org>
+# Maintainer: ArchAssault <team archassault org>
 # Contributor: Prurigro
 
 pkgname=chkrootkit
 pkgver=0.50
 pkgrel=1
-groups=('projectname' 'projectname-*defense' 'archassault-forensic')
+groups=('archassault' 'archassault-defense' 'archassault-forensic')
 pkgdesc="Checks for rootkits on a system"
 url="http://www.chkrootkit.org/"
 arch=('i686' 'x86_64' 'armv6h' 'armv7h')

@@ -1,8 +1,8 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=radamsa
 pkgver=0.4
 pkgrel=1
-groups=('projectname' 'projectname-*fuzzer')
+groups=('archassault' 'archassault-fuzzer')
 pkgdesc="General purpose data fuzzer."
 arch=('i686' 'x86_64' 'armv6h' 'armv7h')
 url="https://code.google.com/p/ouspg/wiki/Radamsa"

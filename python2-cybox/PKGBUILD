@@ -1,4 +1,4 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=python2-cybox
 pkgver=2.1.0.11
 pkgrel=1

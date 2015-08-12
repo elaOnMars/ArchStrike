@@ -1,10 +1,10 @@
-# Maintainer: ArchAssualt <team@projectname.org>
+# Maintainer: ArchAssualt <team@archassault.org>
 pkgname=iosforensic
 pkgver=1.0
 pkgrel=3
 pkgdesc="iOS forensic tool. OWASP iOS Forensic"
 arch=('any')
-groups=('projectname')
+groups=('archassault')
 url="https://github.com/Flo354/iOSForensic"
 license=('custom')
 depends=('sshpass' 'sqlite3' 'python2-magic' 'libplist' 'openssh')

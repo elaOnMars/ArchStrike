@@ -1,8 +1,8 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=3proxy
 pkgver=0.7.1.1
 pkgrel=2
-groups=('projectname' 'projectname-*misc')
+groups=('archassault' 'archassault-misc')
 pkgdesc="Tiny free proxy server"
 url="http://3proxy.ru/"
 license=('GPL')

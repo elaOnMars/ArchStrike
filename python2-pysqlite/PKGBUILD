@@ -1,4 +1,4 @@
-# Maintainer: ArchAssault <team projectname org>
+# Maintainer: ArchAssault <team archassault org>
 pkgname=python2-pysqlite
 pkgver=2.6.3
 pkgrel=5

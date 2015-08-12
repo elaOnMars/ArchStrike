@@ -1,9 +1,9 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=cisco-router-config
 pkgver=1.0
 pkgrel=1
 pkgdesc="copy-router-config and merge-router-config to copy and merge Cisco Routers Configuration"
-groups=('projectname' 'projectname-*misc')
+groups=('archassault' 'archassault-misc')
 license=('GPL')
 depends=('perl' 'perl-cisco-copyconfig')
 arch=(any)

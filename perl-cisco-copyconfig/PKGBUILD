@@ -1,4 +1,4 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname='perl-cisco-copyconfig'
 pkgver='1.4'
 pkgrel='1'

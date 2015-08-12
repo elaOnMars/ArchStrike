@@ -1,7 +1,7 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=protos-sip
 pkgver=2
-groups=('projectname' 'projectname-*voip')
+groups=('archassault' 'archassault-voip')
 pkgrel=2
 pkgdesc="SIP test suite"
 arch=('any')

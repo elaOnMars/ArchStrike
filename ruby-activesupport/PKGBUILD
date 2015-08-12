@@ -1,4 +1,4 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 _gemname=activesupport
 pkgname=ruby-activesupport
 pkgver=4.0.0

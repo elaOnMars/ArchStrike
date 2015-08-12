@@ -2,7 +2,7 @@
 pkgname=waidps-git
 pkgver=20141225.r16
 pkgrel=1
-groups=('projectname' 'projectname-*defensive')
+groups=('archassault' 'archassault-defensive')
 pkgdesc="Wireless Auditing, Intrusion Detection & Prevention System"
 arch=('any')
 url='https://github.com/SYWorks/waidps'

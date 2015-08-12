@@ -1,8 +1,8 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=sucrack
 pkgver=1.2.3
 pkgrel=1
-groups=('projectname' 'projectname-*cracker')
+groups=('archassault' 'archassault-cracker')
 pkgdesc="A multi-threaded Linux/UNIX tool for brute-force cracking local user accounts via su"
 url='http://labs.portcullis.co.uk/application/sucrack'
 license=('custom')

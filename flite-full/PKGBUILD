@@ -1,4 +1,4 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 __upstream_name=flite
 pkgname=${__upstream_name}-full
 pkgver=1.4

@@ -1,8 +1,8 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=termineter
 pkgver=0.1.0
 pkgrel=1
-groups=('projectname' 'projectname-*fuzzer')
+groups=('archassault' 'archassault-fuzzer')
 pkgdesc="Smart meter testing framework"
 url="https://code.google.com/p/termineter/"
 arch=('any')

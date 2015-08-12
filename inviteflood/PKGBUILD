@@ -1,7 +1,7 @@
-# Maintainer: ArchAssault <team projectname org>
+# Maintainer: ArchAssault <team archassault org>
 pkgname=inviteflood
 pkgver=2.0
-groups=('projectname' 'projectname-*dos')
+groups=('archassault' 'archassault-dos')
 pkgrel=3
 pkgdesc="Flood a device with INVITE requests"
 arch=('x86_64' 'i686' 'armv7h')

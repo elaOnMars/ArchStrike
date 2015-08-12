@@ -1,8 +1,8 @@
-# Maintainer: ArchAssault <team projectname org>
+# Maintainer: ArchAssault <team archassault org>
 pkgname=burst-git
 pkgver=20150611.r206
 pkgrel=1
-groups=('projectname' 'projectname-*misc')
+groups=('archassault' 'archassault-misc')
 pkgdesc="An HTTP framework."
 arch=('any')
 url='https://github.com/tweksteen/burst'

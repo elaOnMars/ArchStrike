@@ -1,4 +1,4 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=libdaq-static
 pkgver=2.0.4
 pkgrel=1

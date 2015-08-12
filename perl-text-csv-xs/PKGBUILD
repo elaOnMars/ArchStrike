@@ -1,4 +1,4 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname='perl-text-csv-xs'
 pkgver='1.16'
 pkgrel='1'

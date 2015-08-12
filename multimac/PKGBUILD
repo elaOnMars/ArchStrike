@@ -1,8 +1,8 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=multimac
 pkgver=1.0.3
 pkgrel=1
-groups=('projectname' 'projectname-*spoof')
+groups=('archassault' 'archassault-spoof')
 pkgdesc="Multiple MACs on an adapter"
 arch=('i686' 'x86_64' 'armv6h' 'armv7h')
 url='http://sourceforge.net/projects/multimac/'

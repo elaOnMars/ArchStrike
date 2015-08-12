@@ -1,9 +1,9 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=lbd
 pkgver=0.4
 pkgrel=1
 epoch=1
-groups=('projectname' 'projectname-*reconnaissance')
+groups=('archassault' 'archassault-reconnaissance')
 pkgdesc="Load Balancing detector"
 url='http://ge.mine.nu/code/lbd'
 arch=('any')

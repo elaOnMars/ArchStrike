@@ -1,4 +1,4 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 _author=GAAS
 _perlmod=Digest-MD2
 pkgname=perl-digest-md2

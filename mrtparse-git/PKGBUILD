@@ -2,7 +2,7 @@
 pkgname=mrtparse-git
 pkgver=r309.a508cc3
 pkgrel=1
-groups=('projectname')
+groups=('archassault')
 pkgdesc="a module to read and analyze the MRT format data."
 arch=('any')
 url='https://github.com/YoshiyukiYamauchi/mrtparse'

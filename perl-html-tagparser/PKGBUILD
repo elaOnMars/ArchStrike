@@ -1,4 +1,4 @@
-# Maintainer: ArchAssualt <team@projectname.org>
+# Maintainer: ArchAssualt <team@archassault.org>
 
 pkgname=perl-html-tagparser
 _realname=HTML-TagParser

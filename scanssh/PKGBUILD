@@ -1,8 +1,8 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=scanssh
 pkgver=2.1
 pkgrel=2
-groups=('projectname' 'projectname-*scanners')
+groups=('archassault' 'archassault-scanners')
 pkgdesc="Fast SSH server and open proxy scanner."
 arch=('i686' 'x86_64' 'armv6h' 'armv7h')
 makedepends=('libdnet')

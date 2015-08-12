@@ -1,4 +1,4 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=ruby-zip
 _gemname=zip
 pkgver=2.0.2

@@ -1,4 +1,4 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=python2-dnspython-git
 pkgver=v1.12.0.r34.g7b3c637
 pkgrel=1

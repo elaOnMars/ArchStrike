@@ -1,4 +1,4 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 
 _gemname=faker
 pkgname=ruby-$_gemname

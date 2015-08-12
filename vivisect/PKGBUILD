@@ -1,8 +1,8 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=vivisect
 pkgver=20140803
 pkgrel=1
-groups=('projectname' 'projectname-*debugging' 'archassault-reversing' 'archassault-disassembler')
+groups=('archassault' 'archassault-debugging' 'archassault-reversing' 'archassault-disassembler')
 pkgdesc="Python based static analyze and reverse engineering framework, Vdb is a Python based research/reversing focused debugging and programatic debugging API by invisigoth of kenshoto"
 arch=('any')
 url="http://visi.kenshoto.com/"

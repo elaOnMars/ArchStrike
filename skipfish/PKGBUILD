@@ -1,8 +1,8 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=skipfish
 pkgver=2.10b
 pkgrel=1
-groups=('projectname' 'projectname-*webapp' 'archassault-scanners' 'archassault-fuzzer')
+groups=('archassault' 'archassault-webapp' 'archassault-scanners' 'archassault-fuzzer')
 pkgdesc="A fully automated, active web application security reconnaissancenaissance tool"
 arch=('any')
 license=('Apache')

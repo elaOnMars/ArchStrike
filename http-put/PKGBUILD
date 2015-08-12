@@ -1,9 +1,9 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=http-put
 pkgver=1.0
 pkgrel=1
 pkgdesc="Simple http put perl script"
-groups=('projectname' 'projectname-*misc')
+groups=('archassault' 'archassault-misc')
 arch=(any)
 license=('GPL')
 depends=('perl' 'perl-net-ssleay')

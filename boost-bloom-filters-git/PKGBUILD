@@ -1,4 +1,4 @@
-# Maintainer: ArchAssault <team projectname org>
+# Maintainer: ArchAssault <team archassault org>
 pkgname=boost-bloom-filters-git
 pkgver=20130409.r190
 pkgrel=1

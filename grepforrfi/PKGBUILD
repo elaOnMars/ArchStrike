@@ -1,8 +1,8 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=grepforrfi
 pkgver=0.1
 pkgrel=1
-groups=('projectname' 'projectname-*scanners')
+groups=('archassault' 'archassault-scanners')
 pkgdesc="Simple script for parsing web logs for RFIs and Webshells v1.2"
 url="http://www.irongeek.com/downloads/grepforrfi.txt"
 arch=('any')

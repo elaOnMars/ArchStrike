@@ -1,8 +1,8 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=smtp-user-enum
 pkgver=1.2
 pkgrel=1
-groups=('projectname' 'projectname-*scanners' 'archassault-reconnaissance')
+groups=('archassault' 'archassault-scanners' 'archassault-reconnaissance')
 pkgdesc="Username guessing tool primarily for use against the default Solaris SMTP service. Can use either EXPN, VRFY or RCPT TO. "
 url="http://pentestmonkey.net/tools/user-enumeration/smtp-user-enum"
 arch=('any')

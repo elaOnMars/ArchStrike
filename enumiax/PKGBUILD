@@ -1,9 +1,9 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=enumiax
 pkgver=0.4a
 pkgrel=1
 epoch=1
-groups=('projectname' 'projectname-*scanner')
+groups=('archassault' 'archassault-scanner')
 pkgdesc="IAX enumerator"
 url='http://sourceforge.net/projects/enumiax/'
 license=('GPL')

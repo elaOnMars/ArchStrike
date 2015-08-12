@@ -1,4 +1,4 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=python2-couchdbkit
 pkgver=0.6.5
 pkgrel=1

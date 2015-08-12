@@ -1,4 +1,4 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=perl-html-linkextractor
 pkgver=0.13
 pkgrel=3

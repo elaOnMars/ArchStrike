@@ -1,8 +1,8 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=pentbox
 pkgver=1.8
 pkgrel=1
-groups=('projectname' 'projectname-*scanners' 'archassault-fuzzers')
+groups=('archassault' 'archassault-scanners' 'archassault-fuzzers')
 pkgdesc="A security suite that packs security and stability testing oriented tools for networks and systems"
 arch=('any')
 url='http://www.pentbox.net'

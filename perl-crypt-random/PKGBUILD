@@ -1,4 +1,4 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 _author=VIPUL
 _perlmod=Crypt-Random
 pkgname=perl-crypt-random

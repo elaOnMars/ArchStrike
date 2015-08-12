@@ -1,8 +1,8 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=xortool
 pkgver=0.96
 pkgrel=2
-groups=('projectname' 'projectname-*cryptography' 'archassault-bruteforce' 'archassault-forensics')
+groups=('archassault' 'archassault-cryptography' 'archassault-bruteforce' 'archassault-forensics')
 pkgdesc="A tool to analyze multi-byte xor cipher."
 arch=('any')
 url="https://github.com/hellman/xortool/"

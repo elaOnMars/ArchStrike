@@ -1,8 +1,8 @@
-# Maintainer: ArchAssault <team projectname org>
+# Maintainer: ArchAssault <team archassault org>
 pkgname=wordpot-git
 pkgver=r38.ca12cb5
 pkgrel=1
-groups=('projectname' 'projectname-*defense')
+groups=('archassault' 'archassault-defense')
 pkgdesc="A Wordpress Honeypot"
 arch=('any')
 url='https://github.com/gbrindisi/wordpot'

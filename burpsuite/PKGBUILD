@@ -1,8 +1,8 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=burpsuite
 pkgver=1.6
 pkgrel=1
-groups=('projectname' 'projectname-*webapp' 'archassault-scanners' 'archassault-fuzzer' 'archassault-proxy')
+groups=('archassault' 'archassault-webapp' 'archassault-scanners' 'archassault-fuzzer' 'archassault-proxy')
 pkgdesc="An integrated platform for attacking web applications (free edition)."
 url='http://portswigger.net/burp/'
 depends=('java-environment' 'giflib' 'bash')

@@ -1,4 +1,4 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=python2-pyxml
 pkgver=0.8.4
 pkgrel=4

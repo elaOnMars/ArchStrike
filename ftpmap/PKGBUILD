@@ -1,8 +1,8 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=ftpmap
 pkgver=0.4
 pkgrel=1
-groups=('projectname' 'projectname-*scanners' 'archassault-fingerprinting')
+groups=('archassault' 'archassault-scanners' 'archassault-fingerprinting')
 pkgdesc='scans remote FTP servers to identify what software and what versions
 they are running.'
 arch=('i686' 'x86_64' 'armv6h' 'armv7h')

@@ -1,4 +1,4 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=python2-pygithub
 pkgver=1.25.2
 pkgrel=1

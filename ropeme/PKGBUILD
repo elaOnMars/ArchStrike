@@ -1,8 +1,8 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=ropeme
 pkgver=1.0
 pkgrel=2
-groups=('projectname' 'projectname-*exploits')
+groups=('archassault' 'archassault-exploits')
 pkgdesc="ROPME is a set of python scripts to generate ROP gadgets and payload."
 arch=('any')
 url="http://www.vnsecurity.net/2010/08/ropeme-rop-exploit-made-easy/"

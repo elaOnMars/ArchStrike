@@ -1,9 +1,9 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=linenum
 pkgver=20150209.r20.fb1b097
 pkgrel=1
 epoch=1
-groups=('projectname' 'projectname-*scanners')
+groups=('archassault' 'archassault-scanners')
 pkgdesc="Scripted Local Linux Enumeration & Privilege Escalation Checks"
 url="https://github.com/rebootuser/LinEnum"
 arch=('any')

@@ -1,8 +1,8 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=mitmproxy
 pkgver=0.11.3
 pkgrel=1
-groups=('projectname' 'projectname-*proxies' 'archassault-exploits')
+groups=('archassault' 'archassault-proxies' 'archassault-exploits')
 pkgdesc="SSL-capable man-in-the-middle HTTP proxy"
 arch=('any')
 license=('GPL')

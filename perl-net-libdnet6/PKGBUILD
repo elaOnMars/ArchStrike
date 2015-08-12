@@ -1,4 +1,4 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 _author='GOMOR'
 _perlmod='Net-Libdnet6'
 pkgname='perl-net-libdnet6'

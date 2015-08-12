@@ -1,8 +1,8 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=inundator
 pkgver=0.5
 pkgrel=1
-groups=('projectname' 'projectname-*spoof' 'archassault-misc')
+groups=('archassault' 'archassault-spoof' 'archassault-misc')
 pkgdesc="An ids evasion tool, used to anonymously inundate intrusion detection logs with false positives in order to obfuscate a real attack."
 arch=('any')
 license=(BSD)

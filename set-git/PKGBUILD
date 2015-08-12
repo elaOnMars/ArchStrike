@@ -1,9 +1,9 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname='set-git'
 pkgver=6.1.2.r882.gee71b31
 pkgrel=1
 epoch=1
-groups=('projectname' 'projectname-*social-engineering' 'archassault-exploit')
+groups=('archassault' 'archassault-social-engineering' 'archassault-exploit')
 pkgdesc="Social-engineer toolkit. Aimed at penetration testing around Social-Engineering"
 arch=('any')
 url='https://www.trustedsec.com/downloads/social-engineer-toolkit'

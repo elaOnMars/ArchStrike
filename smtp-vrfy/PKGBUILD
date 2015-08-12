@@ -1,9 +1,9 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=smtp-vrfy
 pkgver=1.0
 pkgrel=1
 pkgdesc="An SMTP Protocol Hacker."
-groups=('projectname' 'projectname-*scanners')
+groups=('archassault' 'archassault-scanners')
 depends=('perl')
 license=(custom:unknown)
 arch=(any)

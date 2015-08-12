@@ -1,8 +1,8 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=dotdotpwn
 pkgver=3.0
 pkgrel=1
-groups=('projectname' 'projectname-*fuzzer' 'archassault-exploit')
+groups=('archassault' 'archassault-fuzzer' 'archassault-exploit')
 pkgdesc="The Transversal Directory Fuzzer"
 url="http://dotdotpwn.blogspot.com"
 arch=('any')

@@ -1,4 +1,4 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=gnome-shell-extension-weather-git
 pkgver=20131020
 pkgrel=1

@@ -1,9 +1,9 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=admid-pack
 pkgver=0.1
 pkgrel=1
 epoch=1
-groups=('projectname' 'projectname-*spoof')
+groups=('archassault' 'archassault-spoof')
 pkgdesc="ADM DNS spoofing tools - Uses a variety of active and passive methods to spoof DNS packets. Very powerful."
 url='http://packetstormsecurity.com/files/10080/ADMid-pkg.tgz.html'
 license=('GPL')

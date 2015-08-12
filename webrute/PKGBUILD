@@ -1,8 +1,8 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=webrute
 pkgver=3.3
 pkgrel=2
-groups=('projectname' 'projectname-*webapp' 'archassault-scanners')
+groups=('archassault' 'archassault-webapp' 'archassault-scanners')
 pkgdesc='Web server directory brute forcer.'
 arch=('any')
 url='https://github.com/ArchAssault-Project/webrute'

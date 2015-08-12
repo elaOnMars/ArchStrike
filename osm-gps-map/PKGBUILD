@@ -1,4 +1,4 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=osm-gps-map
 pkgver=0.7.3
 pkgrel=4

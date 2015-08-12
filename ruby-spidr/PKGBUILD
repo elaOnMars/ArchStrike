@@ -1,4 +1,4 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=ruby-spidr
 _gemname=${pkgname#ruby-}
 pkgver=0.4.1

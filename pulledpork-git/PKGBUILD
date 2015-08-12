@@ -1,4 +1,4 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 
 _pkgname=pulledpork
 pkgname=$_pkgname-git
@@ -8,7 +8,7 @@ pkgdesc="Snort rule management"
 arch=('any')
 url="https://github.com/shirkdog/pulledpork"
 license=('GPL2')
-groups=('projectname' 'projectname-*misc')
+groups=('archassault' 'archassault-misc')
 depends=('perl')
 makedepends=('git')
 source=("$pkgname::git+https://github.com/shirkdog/pulledpork.git")

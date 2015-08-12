@@ -1,8 +1,8 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=hash-identifier
 pkgver=1.1
 pkgrel=2
-groups=('projectname' 'projectname-*cryptography')
+groups=('archassault' 'archassault-cryptography')
 pkgdesc="Identifies the different types of hashes used to encrypt data, especially passwords"
 arch=('any')
 url='http://code.google.com/p/hash-identifier'

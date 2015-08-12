@@ -1,4 +1,4 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=python2-flickrapi
 _pkgname=flickrapi
 pkgver=1.4.2

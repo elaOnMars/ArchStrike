@@ -1,4 +1,4 @@
-# Maintainer: ArchAssault <team projectname org>
+# Maintainer: ArchAssault <team archassault org>
 pkgname=canto-daemon
 pkgver=0.9.1
 pkgrel=1

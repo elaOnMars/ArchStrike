@@ -1,4 +1,4 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=coffee-script
 pkgver=1.9.0
 pkgrel=1

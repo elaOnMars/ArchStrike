@@ -1,8 +1,8 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=webshells
 pkgver=0.r2.4e96370
 pkgrel=1
-groups=('projectname' 'projectname-*webapp' 'archassault-backdoor')
+groups=('archassault' 'archassault-webapp' 'archassault-backdoor')
 pkgdesc="Web Backdoors"
 url="https://github.com/ArchAssault-Project/webshells"
 arch=('any')

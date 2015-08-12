@@ -1,9 +1,9 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=0trace
 pkgver=1.5
 pkgrel=1
 pkgrel=1
-groups=('projectname' 'projectname-*scanner')
+groups=('archassault' 'archassault-scanner')
 pkgdesc="A hop enumeration tool"
 url="http://jon.oberheide.org/0trace/"
 arch=('any')

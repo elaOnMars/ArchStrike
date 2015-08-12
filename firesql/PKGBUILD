@@ -1,8 +1,8 @@
-# Maintainer: ArchAssault <team projectname.org>
+# Maintainer: ArchAssault <team archassault.org>
 pkgname=firesql
 pkgver=0.0.2
 pkgrel=1
-groups=('projectname' 'projectname-*defensive')
+groups=('archassault' 'archassault-defensive')
 pkgdesc="A mysql firewall"
 arch=('i686' 'x86_64' 'armv6h' 'armv7h')
 url="https://bitbucket.org/camp0/firesql"

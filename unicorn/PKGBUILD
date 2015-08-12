@@ -1,8 +1,8 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=unicorn
 pkgver=1.1
 pkgrel=1
-groups=('projectname' 'projectname-*exploits')
+groups=('archassault' 'archassault-exploits')
 pkgdesc="A simple tool for using a PowerShell downgrade attack and inject shellcode straight into memory."
 arch=('any')
 url='https://github.com/trustedsec/unicorn'

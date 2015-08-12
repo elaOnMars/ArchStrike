@@ -1,8 +1,8 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=xsser
 pkgver=1.6
 pkgrel=4
-groups=('projectname' 'projectname-*webapps' 'archassault-fuzzers' 'archassault-exploits')
+groups=('archassault' 'archassault-webapps' 'archassault-fuzzers' 'archassault-exploits')
 pkgdesc="A penetration testing tool for detecting and exploiting XSS vulnerabilites."
 arch=('any')
 url='http://xsser.sourceforge.net/'

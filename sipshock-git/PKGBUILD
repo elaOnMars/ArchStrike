@@ -1,4 +1,4 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 _pkgname=sipshock
 pkgname=sipshock-git
 pkgver=6.1d636ab

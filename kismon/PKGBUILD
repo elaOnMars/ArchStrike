@@ -1,10 +1,10 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=kismon
 pkgver=0.6
 pkgrel=1
 pkgdesc="A PyGTK client that creates a map of a network"
 arch=('any')
-groups=('projectname')
+groups=('archassault')
 url="http://www.salecker.org/software/kismon/en"
 license=('BSD')
 depends=('pyclutter' 'pygtk' 'python2-simplejson' 'python-osmgpsmap' 'kismet')

@@ -1,8 +1,8 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=rr
 pkgver=1.5.0
 pkgrel=1
-groups=('projectname' 'projectname-*misc')
+groups=('archassault' 'archassault-misc')
 pkgdesc="A Record and Replay Framework"
 arch=('i686' 'x86_64' 'armv6h' 'armv7h')
 url='https://github.com/mozilla/rr'

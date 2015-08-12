@@ -1,11 +1,11 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=amap
 pkgver=5.4
 pkgrel=5
 pkgdesc="Next-generation tool for assisting network penetration testing."
 arch=('armv6h' 'armv7h' 'i686' 'x86_64')
 license=('GPL2' 'custom')
-groups=('projectname')
+groups=('archassault')
 depends=('pcre' 'openssl' 'ca-certificates')
 url="http://freeworld.thc.org/releases.php"
 makedepends=('git')

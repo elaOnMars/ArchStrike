@@ -1,4 +1,4 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 # Contributor: Thomas Haider <t.haider@deprecate.de>
 pkgname=python2-publicsuffix
 pkgver=1.0.5

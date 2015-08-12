@@ -1,8 +1,8 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=goodork
 pkgver=2.2
 pkgrel=1
-groups=('projectname' 'projectname-*reconnaissance')
+groups=('archassault' 'archassault-reconnaissance')
 pkgdesc="A python script designed to allow you to leverage the power of google dorking straight from the comfort of your command line."
 url="http://goo-dork.blogspot.com/"
 license=('custom')

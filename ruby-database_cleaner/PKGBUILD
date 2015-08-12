@@ -1,4 +1,4 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=ruby-database_cleaner
 _gemname=database_cleaner
 pkgver=1.2.0

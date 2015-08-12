@@ -1,8 +1,8 @@
-# Maintainer: ArchAssault <team projectname org>
+# Maintainer: ArchAssault <team archassault org>
 pkgname=dvcs-ripper-git
 pkgver=20150205.r12
 pkgrel=1
-groups=('projectname' 'projectname-*misc')
+groups=('archassault' 'archassault-misc')
 pkgdesc="Rip web accessible (distributed) version control systems: SVN/GIT/..."
 arch=('any')
 url='https://github.com/kost/dvcs-ripper'

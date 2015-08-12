@@ -1,9 +1,9 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=dhcpig-git
 pkgver=r69.cc4109a
 pkgrel=1
 epoch=1
-groups=('projectname' 'projectname-*scanners')
+groups=('archassault' 'archassault-scanners')
 pkgdesc="Enumerates hosts, subdomains, and emails from a given domain using google"
 url="https://github.com/kamorin/DHCPig"
 license=('GPL2')

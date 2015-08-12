@@ -1,4 +1,4 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=ruby-uglifier
 _gemname=${pkgname#ruby-}
 pkgver=2.3.0

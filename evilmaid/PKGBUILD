@@ -1,10 +1,10 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=evilmaid
 pkgver=1.01
 pkgrel=1
 pkgdesc="TrueCrypt loader backdoor to sniff volume password"
 url="http://theinvisiblethings.blogspot.com"
-groups=('projectname' 'projectname-*cracker')
+groups=('archassault' 'archassault-cracker')
 license=('unknown')
 arch=(any)
 source=(http://invisiblethingslab.com/resources/evilmaid/evilmaidusb-$pkgver.img)

@@ -1,4 +1,4 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=python-xbee
 pkgver=2.1.0
 pkgrel=2

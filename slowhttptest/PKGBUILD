@@ -1,8 +1,8 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=slowhttptest
 pkgver=1.6
 pkgrel=1
-groups=('projectname' 'projectname-*dos')
+groups=('archassault' 'archassault-dos')
 pkgdesc="A highly configurable tool that simulates application layer denial of service attacks"
 arch=('i686' 'x86_64' 'armv6h' 'armv7h')
 url='http://code.google.com/p/slowhttptest'

@@ -1,8 +1,8 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=nbnspoof
 pkgver=1.0
 pkgrel=2
-groups=('projectname' 'projectname-*spoof')
+groups=('archassault' 'archassault-spoof')
 pkgdesc='NetBIOS Name Service Spoofer'
 arch=('any')
 url='http://www.mcgrewsecurity.com/tools/nbnspoof/'

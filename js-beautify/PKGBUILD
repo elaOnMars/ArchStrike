@@ -1,8 +1,8 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=js-beautify
 pkgver=1.5.5
 pkgrel=1
-groups=('projectname' 'projectname-*reversing')
+groups=('archassault' 'archassault-reversing')
 pkgdesc="Beautify, unpack or deobfuscate JavaScript and HTML, make JSON/JSONP readable"
 arch=('any')
 url="https://github.com/beautify-web/js-beautify"

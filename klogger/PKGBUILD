@@ -1,10 +1,10 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname='klogger'
 pkgver='1.0'
 pkgrel=1
 pkgdesc='A keystroke logger for the NT-series of Windows.'
 url='http://ntsecurity.nu/toolbox/klogger/'
-groups=('projectname' 'projectname-*windows')
+groups=('archassault' 'archassault-windows')
 license=('custom')
 arch=('any')
 source=('http://ntsecurity.nu/downloads/klogger.exe')

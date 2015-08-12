@@ -1,4 +1,4 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=ruby-simplecov-html
 _gemname=simplecov-html
 pkgver=0.8.0

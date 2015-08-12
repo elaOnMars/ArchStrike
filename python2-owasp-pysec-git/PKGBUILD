@@ -2,7 +2,7 @@
 pkgname=python2-owasp-pysec-git
 pkgver=r266.163e10a
 pkgrel=1
-groups=('projectname')
+groups=('archassault')
 pkgdesc="OWASP Python Security Project"
 arch=('i686' 'x86_64' 'armv6h' 'armv7h')
 url='https://github.com/ebranca/owasp-pysec'

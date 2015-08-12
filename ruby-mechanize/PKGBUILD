@@ -1,4 +1,4 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=ruby-mechanize
 _gemname=mechanize
 pkgver=2.7.2

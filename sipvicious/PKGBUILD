@@ -1,8 +1,8 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=sipvicious
 pkgver=0.2.8
 pkgrel=1
-groups=('projectname' 'projectname-*exploit' 'archassault-autonomous')
+groups=('archassault' 'archassault-exploit' 'archassault-autonomous')
 pkgdesc="Tools for auditing SIP devices"
 arch=('i686' 'x86_64' 'armv6h' 'armv7h')
 url='http://blog.sipvicious.org'

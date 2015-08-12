@@ -1,8 +1,8 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=cdpsnarf
 pkgver=0.1.6
 pkgrel=1
-groups=('projectname' 'projectname-*sniffers')
+groups=('archassault' 'archassault-sniffers')
 pkgdesc="Cisco discovery protocol sniffer"
 url="https://github.com/Zapotek/cdpsnarf"
 license=('GPL2')

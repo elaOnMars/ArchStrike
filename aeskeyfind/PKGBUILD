@@ -1,8 +1,8 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=aeskeyfind
 pkgver=1.0
 pkgrel=4
-groups=('projectname' 'projectname-*forensics' 'archassault-crackers')
+groups=('archassault' 'archassault-forensics' 'archassault-crackers')
 pkgdesc="A tool to find AES key in RAM"
 arch=('i686' 'x86_64' 'armv6h' 'armv7h')
 url="http://citp.princeton.edu/memory/code/"

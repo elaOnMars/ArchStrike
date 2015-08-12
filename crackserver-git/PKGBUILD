@@ -1,8 +1,8 @@
-# Maintainer: ArchAssault <team projectname org>
+# Maintainer: ArchAssault <team archassault org>
 pkgname=crackserver-git
 pkgver=r33.e5763ab
 pkgrel=1
-groups=('projectname' 'projectname-*cracker')
+groups=('archassault' 'archassault-cracker')
 pkgdesc="An XMLRPC server for password cracking"
 arch=('i686' 'x86_64')
 url='https://github.com/averagesecurityguy/crack'

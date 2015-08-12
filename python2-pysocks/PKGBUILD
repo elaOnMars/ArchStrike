@@ -1,4 +1,4 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 
 _pkgname=pysocks
 pkgname=python2-$_pkgname

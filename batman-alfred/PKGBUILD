@@ -1,7 +1,7 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 _pkgname=alfred
 pkgname=batman-${_pkgname}
-groups=('projectname' 'projectname-*wireless')
+groups=('archassault' 'archassault-wireless')
 pkgver=2015.0
 pkgrel=1
 pkgdesc="Almighty Lightweight Fact Remote Exchange Daemon"

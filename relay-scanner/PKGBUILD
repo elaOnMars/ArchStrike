@@ -1,10 +1,10 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=relay-scanner
 pkgver=1.7
 pkgrel=1
 pkgdesc="SMTP relay scanner"
 url="http://www.cirt.dk"
-groups=('projectname' 'projectname-*scanners')
+groups=('archassault' 'archassault-scanners')
 makedepends=('unzip')
 license=('custom:unkown')
 depends=('perl')

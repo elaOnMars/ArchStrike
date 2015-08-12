@@ -1,10 +1,10 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=icmptx
 pkgver=0.01
 pkgrel=1
 pkgdesc="IP over ICMP"
 url="http://thomer.com/icmptx/"
-groups=('projectname' 'projectname-*tunneling')
+groups=('archassault' 'archassault-tunneling')
 license=('GPL')
 makedepends=('make' 'gcc')
 depends=('glibc')

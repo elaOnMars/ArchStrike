@@ -1,10 +1,10 @@
-# Maintainer: ArchAssault <team projectname org>
+# Maintainer: ArchAssault <team archassault org>
 # Contributor: Ari Mizrahi <codemunchies@debugsecurity.com>
 
 pkgname=lynis
 pkgver=2.1.0
 pkgrel=1
-groups=('projectname' 'projectname-*scanners')
+groups=('archassault' 'archassault-scanners')
 pkgdesc="An auditing and system hardning tool for Unix/Linux"
 url='http://www.rootkit.nl/projects/lynis.html'
 license=('GPL3')

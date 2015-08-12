@@ -1,9 +1,9 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=sandy
 pkgver=20140930.r6.531ab16
 pkgrel=2
 epoch=1
-groups=('projectname' 'projectname-*scanners')
+groups=('archassault' 'archassault-scanners')
 pkgdesc="An open-source Samsung phone encryption assessment framework."
 url="https://github.com/donctl/sandy"
 arch=('armv6h' 'armv7h' 'i686' 'x86_64')

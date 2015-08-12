@@ -1,4 +1,4 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=ruby-uuidtools
 pkgver=2.1.4
 pkgrel=1

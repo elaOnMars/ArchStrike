@@ -1,8 +1,8 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=oh-my-zsh-git
 pkgver=2184.9819349
 pkgrel=1
-groups=('projectname' 'projectname-*misc')
+groups=('archassault' 'archassault-misc')
 pkgdesc="A community-driven framework for managing your zsh configuration."
 arch=('any')
 url="https://github.com/robbyrussell/oh-my-zsh"

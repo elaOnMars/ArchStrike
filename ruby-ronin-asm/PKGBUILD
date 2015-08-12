@@ -1,4 +1,4 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=ruby-ronin-asm
 _gemname=ronin-asm
 pkgver=0.2.0

@@ -1,10 +1,10 @@
-# Maintainer: ArchAssault <team projectname org>
+# Maintainer: ArchAssault <team archassault org>
 # Contributor: Simon Hanna <simon dot hanna at serve-me dot info>
 pkgname=onionshare
 pkgver=0.7.1
 pkgrel=1
 pkgdesc="Securely and anonymously share a file of any size"
-groups=('projectname' 'projectname-*misc')
+groups=('archassault' 'archassault-misc')
 url="https://github.com/micahflee/onionshare"
 arch=('any')
 license=('GPL3')

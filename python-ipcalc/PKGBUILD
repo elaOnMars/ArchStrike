@@ -1,4 +1,4 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname='python-ipcalc'
 pkgver='1.1.3'
 pkgrel=1

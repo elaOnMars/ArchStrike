@@ -1,4 +1,4 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=ruby-mini_portile
 _gemname=mini_portile
 pkgver=0.5.2

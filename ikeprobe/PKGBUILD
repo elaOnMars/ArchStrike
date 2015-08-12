@@ -1,10 +1,10 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname='ikeprobe'
 pkgver=1.0
 pkgrel=1
 pkgdesc='Determine vulnerabilities in the PSK implementation of the VPN server.'
 url='http://www.ernw.de/download/ikeprobe.zip'
-groups=('projectname' 'projectname-*windows')
+groups=('archassault' 'archassault-windows')
 license=('custom')
 arch=('any')
 source=("http://www.ernw.de/download/ikeprobe.zip")

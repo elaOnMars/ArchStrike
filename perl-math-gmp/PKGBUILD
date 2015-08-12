@@ -1,4 +1,4 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 _author=TURNSTEP
 _perlmod=Math-GMP
 pkgname=perl-math-gmp

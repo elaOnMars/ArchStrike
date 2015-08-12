@@ -1,8 +1,8 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=php-mt-seed
 pkgver=3.2
 pkgrel=1
-groups=('projectname' 'projectname-*cracker')
+groups=('archassault' 'archassault-cracker')
 pkgdesc="PHP mt_rand() seed cracker"
 url="http://www.openwall.com/php_mt_seed/"
 arch=('i686' 'x86_64' 'armv6h' 'armv7h')

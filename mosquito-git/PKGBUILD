@@ -1,8 +1,8 @@
-# Maintainer: ArchAssault <team projectname org>
+# Maintainer: ArchAssault <team archassault org>
 pkgname=mosquito-git
 pkgver=r39.fe54831
 pkgrel=1
-groups=('projectname' 'projectname-*mitm')
+groups=('archassault' 'archassault-mitm')
 pkgdesc="A XSS exploitation tool allowing an attacker to set up a HTTP proxy and leverage XSS to issue arbitrary HTTP requests through victim browser (and victim cookies)."
 arch=('any')
 url='https://github.com/koto/mosquito'

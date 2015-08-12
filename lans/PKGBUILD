@@ -1,8 +1,8 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=lans
 pkgver=1.0
 pkgrel=1
-groups=('projectname' 'projectname-*spoof')
+groups=('archassault' 'archassault-spoof')
 pkgdesc="A Multithreaded asynchronous packet parsing/injecting arp spoofer."
 url="https://github.com/DanMcInerney/LANs.py"
 arch=('any')

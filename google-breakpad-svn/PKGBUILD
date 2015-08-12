@@ -1,4 +1,4 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 
 _pkgname=google-breakpad
 pkgname=${_pkgname}-svn

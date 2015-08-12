@@ -1,4 +1,4 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname='perl-net-libdnet'
 _cpanname="Net-Libdnet"
 pkgver=0.98

@@ -1,4 +1,4 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=ruby-mocha-on-bacon
 _gemname=${pkgname#ruby-}
 pkgver=0.2.2

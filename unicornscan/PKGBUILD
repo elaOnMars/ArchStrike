@@ -1,8 +1,8 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=unicornscan
 pkgver=0.4.7
 pkgrel=5
-groups=('projectname' 'projectname-*scanners')
+groups=('archassault' 'archassault-scanners')
 pkgdesc='A new information gathering and correlation engine.'
 url='http://www.unicornscan.org/'
 depends=('libpcap' 'postgresql-libs' 'libdnet' 'libltdl')

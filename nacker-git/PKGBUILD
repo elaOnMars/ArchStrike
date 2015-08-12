@@ -1,8 +1,8 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=nacker-git
 pkgver=r23.b67bb39
 pkgrel=1
-groups=('projectname' 'projectname-*networking')
+groups=('archassault' 'archassault-networking')
 pkgdesc="A tool to circumvent 802.1x Network Access Control (NAC) on a wired LAN."
 arch=('any')
 url='https://github.com/carmaa/nacker'

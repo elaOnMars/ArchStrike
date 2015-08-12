@@ -1,8 +1,8 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=uatester
 pkgver=1.06
 pkgrel=1
-groups=('projectname' 'projectname-*misc' 'archassault-webapp')
+groups=('archassault' 'archassault-misc' 'archassault-webapp')
 pkgdesc="User Agent String Tester"
 url="http://code.google.com/p/ua-tester/"
 arch=('any')

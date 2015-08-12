@@ -1,8 +1,8 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=chaosmap
 pkgver=1.3
 pkgrel=1
-groups=('projectname' 'projectname-*forensic')
+groups=('archassault' 'archassault-forensic')
 pkgdesc="An information gathering tool and dns / whois / web server scanner"
 arch=('any')
 url='http://freecode.com/projects/chaosmap'

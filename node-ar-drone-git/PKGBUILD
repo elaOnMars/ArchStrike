@@ -1,4 +1,4 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 
 _pkgname=ar-drone
 pkgname=node-$_pkgname-git

@@ -1,4 +1,4 @@
-# Maintainer: ArchAssault <team projectname org>
+# Maintainer: ArchAssault <team archassault org>
 # Contributor: Sergej Pupykin <pupykin.s+arch@gmail.com>
 
 pkgname=hostapd-cupid
@@ -8,7 +8,7 @@ pkgdesc="IEEE 802.11 AP, IEEE 802.1X/WPA/WPA2/EAP/RADIUS Authenticator with cupi
 arch=('i686' 'x86_64' 'armv6h' 'armv7h')
 url="http://w1.fi/"
 license=('custom')
-groups=('projectname-wireless')
+groups=('archassault-wireless')
 depends=('openssl' 'libnl1')
 makedepends=('git')
 backup=('etc/hostapd-cupid/hostapd.conf'

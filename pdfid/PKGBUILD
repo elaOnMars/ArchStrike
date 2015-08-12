@@ -1,8 +1,8 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=pdfid
 pkgver=0.2.1
 pkgrel=1
-groups=('projectname' 'projectname-*forensic')
+groups=('archassault' 'archassault-forensic')
 pkgdesc="scan a file to look for certain PDF keywords"
 arch=('any')
 url='http://blog.didierstevens.com/programs/pdf-tools/'

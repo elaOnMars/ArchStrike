@@ -1,4 +1,4 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=ruby-sprockets
 _gemname=${pkgname#ruby-}
 pkgver=2.8.2

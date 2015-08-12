@@ -1,8 +1,8 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=netcommander
 pkgver=1.3
 pkgrel=1
-groups=('projectname' 'projectname-*spoof')
+groups=('archassault' 'archassault-spoof')
 pkgdesc="An easy-to-use arp spoofing tool"
 arch=('any')
 url='https://github.com/evilsocket/netcommander'

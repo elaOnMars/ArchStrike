@@ -1,4 +1,4 @@
-# Maintainer: ArchAssault <team at projectname org>
+# Maintainer: ArchAssault <team at archassault org>
 pkgname=ruby1.9-pg
 _gemname=pg
 pkgver=0.16.0

@@ -1,4 +1,4 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 _pkgname=byacc
 pkgname=${_pkgname}-noconflict
 pkgver=20141128

@@ -1,9 +1,9 @@
-#Maintainer: ArchAssault <team at projectname dot org>
+#Maintainer: ArchAssault <team at archassault dot org>
 
 pkgname=fakenetbios-git
 pkgver=r7.b83701e
 pkgrel=1
-groups=('projectname' 'projectname-*fuzzer')
+groups=('archassault' 'archassault-fuzzer')
 pkgdesc="A Simulation of NetBIOS hosts (Windows-like) "
 arch=('i686' 'x86_64' 'armv6h' 'armv7h')
 url='https://github.com/mubix/FakeNetBIOS'

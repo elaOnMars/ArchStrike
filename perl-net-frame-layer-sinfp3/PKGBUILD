@@ -1,4 +1,4 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 _author='GOMOR'
 _perlmod='Net-Frame-Layer-SinFP3'
 pkgname='perl-net-frame-layer-sinfp3'

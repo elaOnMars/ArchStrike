@@ -1,8 +1,8 @@
-# Maintainer: ArchAssault <team projectname org>
+# Maintainer: ArchAssault <team archassault org>
 pkgname=windows-binaries
 pkgver=0.4
 pkgrel=1
-groups=('projectname' 'projectname-*windows-apps')
+groups=('archassault' 'archassault-windows-apps')
 pkgdesc="A colleciton of pentesting Windows binaries"
 arch=('any')
 license=('GPL2')

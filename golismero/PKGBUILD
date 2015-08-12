@@ -1,8 +1,8 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=golismero
 pkgver=2.0
 pkgrel=1
-groups=('projectname' 'projectname-*webapp')
+groups=('archassault' 'archassault-webapp')
 pkgdesc="Opensource web security testing framework"
 url="https://github.com/golismero/golismero"
 license=('custom')

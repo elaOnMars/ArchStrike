@@ -1,8 +1,8 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=webacoo
 pkgver=0.2.3
 pkgrel=3
-groups=('projectname' 'projectname-*webapps' 'archassault-backdoors')
+groups=('archassault' 'archassault-webapps' 'archassault-backdoors')
 pkgdesc="Web Backdoor Cookie Script-Kit"
 url="https://github.com/anestisb/WeBaCoo"
 arch=('any')

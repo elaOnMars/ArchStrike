@@ -1,8 +1,8 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=kautilya
 pkgver=0.5.5
 pkgrel=1
-groups=('projectname' 'projectname-*hardware')
+groups=('archassault' 'archassault-hardware')
 pkgdesc="Pwnage with Human Interface Devices using Teensy++2.0 and Teensy 3.0 devices"
 arch=('any')
 url='https://github.com/samratashok/Kautilya'

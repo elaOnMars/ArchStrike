@@ -1,9 +1,9 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=weevely
 _pkgname=weevely3
 pkgver=3.1.0
 pkgrel=1
-groups=('projectname' 'projectname-*webapps' 'archassault-backdoors')
+groups=('archassault' 'archassault-webapps' 'archassault-backdoors')
 pkgdesc="A Stealth tiny web shell that provides a telnet-like console."
 arch=('any')
 url='http://epinna.github.io/Weevely3'

@@ -1,4 +1,4 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 _gemname=rkelly-remix
 pkgname=ruby1.9-$_gemname
 pkgver=0.0.6

@@ -1,4 +1,4 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=python2-pydns
 _pkgname=pydns
 pkgver=2.3.6

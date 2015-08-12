@@ -1,4 +1,4 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 _runkernver=$(uname -r)
 _shortkernver=${_runkernver%.*}
 pkgname=backports-patched

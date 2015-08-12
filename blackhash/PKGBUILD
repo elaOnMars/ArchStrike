@@ -1,8 +1,8 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=blackhash
 pkgver=0.2
 pkgrel=2
-groups=('projectname' 'projectname-*cracker')
+groups=('archassault' 'archassault-cracker')
 pkgdesc="Creates a filter from system hashes"
 url="http://16s.us/blackhash/"
 arch=('any')

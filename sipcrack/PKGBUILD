@@ -1,8 +1,8 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=sipcrack
 pkgver=0.2
 pkgrel=2
-groups=('projectname' 'projectname-*cracker' 'archassault-voip')
+groups=('archassault' 'archassault-cracker' 'archassault-voip')
 pkgdesc="A SIP protocol login cracker."
 depends=('libpcap' 'openssl')
 license=('custom')

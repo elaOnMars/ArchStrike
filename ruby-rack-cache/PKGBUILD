@@ -1,4 +1,4 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=ruby-rack-cache
 _gemname=${pkgname#ruby-}
 pkgver=1.2

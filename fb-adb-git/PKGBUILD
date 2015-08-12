@@ -1,4 +1,4 @@
-# Maintainer: ArchAssault <team at projectname org>
+# Maintainer: ArchAssault <team at archassault org>
 
 _pkgname=fb-adb
 pkgname=$_pkgname-git

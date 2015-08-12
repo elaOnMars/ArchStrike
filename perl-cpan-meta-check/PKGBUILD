@@ -1,4 +1,4 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 
 pkgname='perl-cpan-meta-check'
 pkgver='0.012'

@@ -1,8 +1,8 @@
-# Maintainer
+# Maintainer: ArchAssault <team@archassault.org>
 pkgname=depdep
 pkgver=2.0
 pkgrel=1
-groups=('projectname' 'projectname-*malware')
+groups=('archassault' 'archassault-malware')
 pkgdesc="A merciless sentinel which will seek sensitive files containing critical info leaking through your network "
 arch=('any')
 url='https://github.com/galkan/depdep'

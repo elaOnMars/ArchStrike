@@ -1,4 +1,4 @@
-# Maintainer: ArchAssault <team projectname org>
+# Maintainer: ArchAssault <team archassault org>
 # Contributor: Prurigro
 
 pkgname=khc
@@ -7,7 +7,7 @@ pkgrel=1
 pkgdesc="Known Host Cracker (khc) is a small tool designed to recover hashed known_host files back to their plain-text equivalents"
 url="http://packetstormsecurity.com/files/87003"
 license=('BSD')
-groups=('projectname-cracker')
+groups=('archassault-cracker')
 arch=('i686' 'x86_64' 'armv6h' 'armv7h')
 depends=('openssl')
 source=("http://packetstorm.foofus.com/UNIX/utilities/${pkgname}_${pkgver}.tar.gz"
