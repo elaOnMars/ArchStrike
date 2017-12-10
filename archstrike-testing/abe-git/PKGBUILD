@@ -1,0 +1,53 @@
+# Maintainer: ArchStrike <team@archstrike.org>
+
+buildarch=1
+
+pkgname=abe-git
+pkgver=20170928.r61
+pkgrel=1
+groups=('archstrike' 'archstrike-misc')
+arch=('any')
+pkgdesc="Android backup extractor"
+url="https://github.com/nelenkov/android-backup-extractor"
+license=('Apache')
+depends=('java-environment' 'bash' 'bcprov')
+makedepends=('git' 'gradle')
+source=("${pkgname}::git+${url}.git")
+sha512sums=('SKIP')
+
+pkgver() {
+  cd ${pkgname}
+  printf "%s.r%s" "$(git show -s --format=%ci master | sed "s/\ .*//g;s/-//g")" "$(git rev-list --count HEAD)"
+}
+
+build() {
+  cd ${pkgname}
+  gradle --gradle-user-home=.
+}
+
+check() {
+  cd ${pkgname}
+  gradle --gradle-user-home=. test
+}
+
+package() {
+  cd ${pkgname}
+
+  install -dm755 "${pkgdir}/usr/share/java/${pkgname}"
+  install -Dm755 abe "${pkgdir}/usr/share/java/${pkgname}/abe"
+
+  install -dm755 "${pkgdir}/usr/share/java/${pkgname}/lib"
+  ln -sf "/usr/share/java/bcprov.jar" "${pkgdir}/usr/share/java/${pkgname}/lib/bcprov.jar"
+
+  install -dm755 "${pkgdir}/usr/share/licenses/${pkgname}"
+  install -Dm644 LICENSE "${pkgdir}/usr/share/licenses/${pkgname}/LICENSE"
+
+  cp -a --preserve=ownership "build/libs/abe-all.jar" "${pkgdir}/usr/share/java/${pkgname}/abe.jar"
+
+  install -dm755 "${pkgdir}/usr/bin"
+  cat > "${pkgdir}/usr/bin/abe" << EOF
+#!/bin/sh
+exec /usr/share/java/${pkgname}/abe "\$@"
+EOF
+  chmod +x "${pkgdir}/usr/bin/abe"
+}
